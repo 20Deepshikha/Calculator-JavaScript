@@ -1,3 +1,3 @@
 # Calculator-JavaScript
 I Created a calculator using Javascript, CSS, And HTML
-Link: file:///Users/deepshikha/Documents/Practice%20coding/Calculator/Calculator-JavaScript/index.html
+Link For Calculator: https://20deepshikha.github.io/Calculator-JavaScript/
